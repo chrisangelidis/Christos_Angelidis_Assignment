@@ -1,2 +1,2 @@
 # christosangelidisassignment
-The assignment for Spitogatos
+Assignment for Spitogatos
