@@ -1,2 +1,2 @@
 # Christos_Angelidis_Assignment
-Assignment for Spitogatos
+Data Analysis and Machine Learning Assignment for Spitogatos
